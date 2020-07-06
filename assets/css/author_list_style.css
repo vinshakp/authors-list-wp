@@ -1,0 +1,17 @@
+.al_post_author_details{
+    
+}
+.al_user_data {
+    display: inline-block;
+    margin-right: 24px;
+}
+
+.al_users_show h3 {
+    display: block;
+    margin-bottom: 23px;
+}
+
+.al_user_data p {
+    line-height: 33px;
+    font-size: 16px;
+}
